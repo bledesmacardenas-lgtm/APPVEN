@@ -1,0 +1,6 @@
+{
+  "name": "Inventario y Ventas",
+  "description": "Sistema integral de inventario, catálogo de productos, punto de venta (POS), reportes en tiempo real y sincronización en la nube.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
